@@ -2,7 +2,7 @@
   "name": "devoirati-frontend",
   "version": "0.1.0",
   "author": "Ashraf Ben Slimane",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
